@@ -8,6 +8,7 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 
+import { describe, it } from 'mocha';
 import { expect } from 'chai';
 
 describe('test suite', () => {
